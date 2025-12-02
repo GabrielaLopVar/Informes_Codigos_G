@@ -1,4 +1,7 @@
-  __init__.py
+# **Esquema** 
+
+``` 
+__init__.py
 │
 ├───fourier
 │       FFT.py
@@ -14,3 +17,5 @@
 │
 └───__pycache__
         __init__.cpython-313.pyc
+```
+
