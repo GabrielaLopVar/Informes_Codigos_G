@@ -1,0 +1,16 @@
+  __init__.py
+│
+├───fourier
+│       FFT.py
+│       __init__.py
+│
+├───signal
+│   │   signal.py
+│   │   __init__.py
+│   │
+│   └───__pycache__
+│           signal.cpython-313.pyc
+│           __init__.cpython-313.pyc
+│
+└───__pycache__
+        __init__.cpython-313.pyc
